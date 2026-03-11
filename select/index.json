@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Imaginary Friend -Japanese ver.-",
+  "base_artist": "ITZY",
+  "createdAt": "2026-03-11T06:30:00.323586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Imaginary Friend -Japanese ver.-",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/01_Imaginary_Friend_-Japanese_ver.-_ITZY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Imaginary Friend -Japanese ver.-",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_Imaginary_Friend_-Japanese_ver.-_ITZY.txt"
+    }
+  ]
+}
