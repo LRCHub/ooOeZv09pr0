@@ -1,0 +1,49 @@
+# ITZY – Imaginary Friend -Japanese ver.-
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.96] Who am I? The revolution
+[00:17.46] 幻想から 芽生え
+[00:20.74] 目覚めてるの your illusion
+[00:24.58] その想像にね 居るよ
+[00:29.58] 
+[00:28.04] ねぇ夢を現実に
+[00:31.89] 呼吸を重ねて
+[00:35.43] Who am I? 信じられる？
+[00:38.85] Oh, I'm a fallen angel and I said
+[00:55.35] 
+[00:43.38] Call out my name in the middle of the night
+[00:46.46] Why? Don't be afraid, call out my name, yeah
+[00:50.54] Call out my name in the middle of the night
+[00:53.73] Why? Don't be afraid
+[01:03.73] 
+[00:56.79] You know, I'm your imaginary friend
+[01:03.85] You know, I'm なれるの I'll be your night
+[01:10.96] When there's monsters on your ceiling
+[01:14.47] I'll keep you safe and 夢見せるよ
+[01:18.33] You know, I'm your imaginary friend
+[01:25.42] You know, I'm, it's you and I until the end
+[01:46.92] 
+[01:46.81] Who am I? The evolution
+[01:50.64] 想像して 育った
+[01:54.16] 色違い hallucination
+[01:57.43] Oh その記憶に居るの
+[02:02.93] 
+[02:01.43] Come on and dance, dance and don't stop
+[02:04.04] 小さな lucky spark 力になるから (ah-ah-ah-ah)
+[02:08.91] そばで一緒よ can't stop thinking about our vibe
+[02:12.68] 今よ we can run and I'm killing it to the top, yeah
+[02:37.18] 
+[02:16.63] Call out my name in the middle of the night
+[02:19.73] Why? Don't be afraid, call out my name, yeah
+[02:23.73] Call out my name in the middle of the night
+[02:26.88] Why? Don't be afraid
+[02:36.88] 
+[02:29.86] You know, I'm your imaginary friend
+[02:37.10] You know, I'm なれるの I'll be your night
+[02:44.25] When there's monsters on your ceiling
+[02:47.59] I'll keep you safe and 夢へ連れて行く
+[02:51.38] You know, I'm your imaginary friend
+[02:58.58] You know, I'm, it's you and I until the end
+```
